@@ -3,4 +3,7 @@ jefflujin@163.com
 
 hello world
 
-new feature
+
+bugfix
+fix2
+
